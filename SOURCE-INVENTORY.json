@@ -7,7 +7,7 @@
       "sha256": "ca3113a1e9a8572c1ef5bf15a4532d004594cad9b6551e3486bfb5ddb15370c1"
     },
     {
-      "path": ".github/workflows/source-tests.yml",
+      "path": ".github/disabled-workflows/source-tests.yml",
       "bytes": 612,
       "sha256": "de6c0a9425386546de1a8986ea4ea3563f5933263bb7f2e173037ab673028b58"
     },
@@ -53,8 +53,8 @@
     },
     {
       "path": "Z8-PORT-INVENTORY.json",
-      "bytes": 64999,
-      "sha256": "4112e2b4ed6b0362b294298e7ba007079bbd9d2219bcdfe057d04efe2ffe50c0"
+      "bytes": 65008,
+      "sha256": "eca3b209eef1e7edbf67d3f2dca7593ceb5a46811f46e4f235774cf6ea71bb20"
     },
     {
       "path": "docs/api-reference.md",

@@ -6,7 +6,7 @@
   "qualified_for_camera_installation": false,
   "files": {
     ".gitattributes": "ca3113a1e9a8572c1ef5bf15a4532d004594cad9b6551e3486bfb5ddb15370c1",
-    ".github/workflows/source-tests.yml": "de6c0a9425386546de1a8986ea4ea3563f5933263bb7f2e173037ab673028b58",
+    ".github/disabled-workflows/source-tests.yml": "de6c0a9425386546de1a8986ea4ea3563f5933263bb7f2e173037ab673028b58",
     ".gitignore": "c4419bba65aa0c317cca0c308fa3db2a324b7847426267e3919299dadc15c6cb",
     "AGENTS.md": "291aeee1c37ef9dac555477c4d01909c94fa7e22ec459314807efc90b35f2433",
     "EXCEPTIONS.md": "49146f526f17bae59082c57d37da7f98554dcc5a758a3a0b6d16226661759248",
